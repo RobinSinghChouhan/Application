@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="Collob">C</string>
+    <string name="CompanyName">ollabKaro</string>
+    <string name="Button1">Creator</string>
+    <string name="Button2">Brand</string>
+    <string name="NeedHelp">Let us help you!</string>
+    <string name="OR">or</string>
+    <string name="Creator">reator</string>
+    <string name="Login">Login</string>
+    <string name="Username">username</string>
+    <string name="password">password</string>
+    <string name="ForgetPassword">Forget Password?</string>
+    <string name="doNotHaveAccount">Dont have account?</string>
+    <string name="GoBack">Go to home page</string>
+    <string name="signIn">SignIn</string>
+    <string name="BrandB">B</string>
+    <string name="Brand">rand</string>
+    <string name="BrandLogin">Login</string>
+    <string name="CompanyNameInput">Company Name</string>
+    <string name="EmailOfCompany">E-mail</string>
+    <string name="BrandPhoneNumber">Phone No.</string>
+    <string name="BrandAddress">Address</string>
+    <string name="RegisterButton">Register</string>
+    <string name="Country">Country</string>
+    <string name="State">State</string>
+    <string name="City">City</string>
+    <string name="Pincode">Pin-code</string>
+    <string-array name="CompanyType">Company Type
+        <item>Companies Limited by Shares.</item>
+        <item>Companies Limited by Guarantee.</item>
+        <item>Unlimited Companies.</item>
+        <item>One Person Companies (OPC)</item>
+    </string-array>
+</resources>
